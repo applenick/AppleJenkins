@@ -29,10 +29,10 @@ body, p, table, tr, td, strong, h1, h2, h3, h4, h5, h6, blockquote, li {
     margin: 5px 0 5px 5px;
     padding: 0 0 0 44px;
     color: #fff !important;
-    content: "AppleNick"}
+    }
     #top-panel td > a img {
-      background: url("http://avatar.oc.tc/applenick3/200.png");
-      background-size: 200px 200px;
+      background: url("http://avatar.oc.tc/applenick3/64.png");
+      content: "AppleNick's Build Server"
        }
      }
 
