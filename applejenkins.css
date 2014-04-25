@@ -33,6 +33,7 @@ body, p, table, tr, td, strong, h1, h2, h3, h4, h5, h6, blockquote, li {
     #top-panel td > a img {
       background: url("http://avatar.oc.tc/applenick3/64.png");
       content: "AppleNick's Build Server"
+      display: block;
        }
      }
 
