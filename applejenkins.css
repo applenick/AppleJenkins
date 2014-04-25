@@ -56,3 +56,52 @@ td.progress-bar-done {
 td.progress-bar-left {
     border: 1px solid #BBBBBB;
 }
+
+
+top-sticker-inner,
+.footer-table {
+    background: none repeat scroll 0 0 #333333;
+    font-size: 12px;
+    min-height: 25px;
+    padding: 5px 40px 5px 40px !important;
+    height: auto !important;
+}
+/* Style header and footer strip links */
+.top-sticker-inner a,
+#right-top-nav a,
+.footer-table a {
+    font-size: 12px !important;
+    color: #999999 !important;
+    font-weight: normal !important;
+    text-decoration: none;
+}
+
+.top-sticker-inner a:hover, #right-top-nav a:hover, .footer-table a:hover {
+    color: #CCCCCC !important;
+}
+
+#right-top-nav {
+    margin-left: 20px;
+    line-height: 20px !important;
+}
+
+#right-top-nav span {
+    color: #999999 !important;
+}
+
+#right-top-nav span a b {
+    font-weight: normal !important;
+}
+/* Reset padding to align Jenkins breadcrumb link with logo and give space for the plus box image used in drop-down menus */
+a.model-link.inside {
+    padding: 0 20px 0 0!important;
+}
+/* Hide border for breadcrumbs in header strip */
+#breadcrumbs {
+    border-bottom: none !important;
+}
+/* Remove padding and border from footer */
+#footer {
+    padding: 0;
+    border: none !important;
+}
