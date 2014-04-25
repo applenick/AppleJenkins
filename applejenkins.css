@@ -13,13 +13,11 @@ body {
     color: #333333;
     padding: 0 40px 20px 40px;
 }
-/* Hide top strip with Jenkins title and search bar*/
-
+/* Hide top strip with Jenkins title and search bar
 #top-panel {
-    /*display: none;*/
-    background-color: #dc1616;
-
+    display: none;
 }
+*/
 
 /* Style header and footer strips */
 .top-sticker-inner,
