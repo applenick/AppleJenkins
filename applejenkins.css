@@ -4,7 +4,7 @@ body, p, table, tr, td, strong, h1, h2, h3, h4, h5, h6, blockquote, li {
    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-/* #top-panel {
+ #top-panel {
    background-image: none;
    background: #c70707;
 }
@@ -12,7 +12,7 @@ body, p, table, tr, td, strong, h1, h2, h3, h4, h5, h6, blockquote, li {
 #top-panel img:first-child {
    display:none;
 }
-*/
+
 
 #top-panel {
   background: #ce0000; }
@@ -31,7 +31,7 @@ body, p, table, tr, td, strong, h1, h2, h3, h4, h5, h6, blockquote, li {
     color: #fff !important;
     }
     #top-panel td > a img {
-      background: url("http://avatar.oc.tc/applenick3/100.png");
+      background: url("http://avatar.oc.tc/applenick3/200.png");
       content: "AppleNick's Build Server";
       display: block;
        }
