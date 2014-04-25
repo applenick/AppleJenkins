@@ -105,3 +105,15 @@ a.model-link.inside {
     padding: 0;
     border: none !important;
 }
+
+#search-wrap #searchform a {
+    display: none;
+}
+/* Remove background image from search field */
+#search-wrap #searchform #search-box {
+    width: 33%;
+}
+
+#menuSelector {
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAPUlEQVR42r2P0QYAMAwD8/9/cF+bGdOHqQlloULrnArwTtpyloIEtIdmX4YImBuA11yGAPjww9CQRz5k2gtOZAIbOGyXtAAAAABJRU5ErkJggg==") !important;
+}
