@@ -30,9 +30,9 @@ body, p, table, tr, td, strong, h1, h2, h3, h4, h5, h6, blockquote, li {
     padding: 0 0 0 44px;
     color: #000000 !important; }
     #top-panel td > a img {
-      display: none; }
-    #top-panel td > a:after {
-      content: "AppleNick's Build Server"; }
+      background: url("http://avatar.oc.tc/applenick3/200.png");
+      display: block; }
+     }
 
 #search-box {
    margin-top: 8px;
