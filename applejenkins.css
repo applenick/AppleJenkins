@@ -18,6 +18,15 @@ body, p, table, tr, td, strong, h1, h2, h3, h4, h5, h6, blockquote, li {
 }
 
 
+/* Hide standard Jenkins project status "ball" graphics in project table */
+#projectstatus td:first-child img {
+    display: none;
+}
+/* Remove border from last cell of project table rows */
+#projectstatus td:last-child {
+    border-right: 1px solid #DDDDDD;
+}
+
 /* Error state (red) styling for project table */
 #projectstatus td:first-child[data="0"] {
     background-color: #C40022 !important;
